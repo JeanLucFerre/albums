@@ -1,1 +1,27 @@
-
+[
+  { 
+    "src": "mosaique-2020-(1).jpg", 
+    "srct": "mosaique-2020-(1).jpg", 
+    "title": "mosaique-2020-(1)" 
+  },
+   { 
+    "src": "mosaique-2020-(2).jpg", 
+    "srct": "mosaique-2020-(2).jpg", 
+    "title": "mosaique-2020-(2)" 
+  },
+   { 
+    "src": "mosaique-2020-(3).jpg", 
+    "srct": "mosaique-2020-(3).jpg", 
+    "title": "mosaique-2020-(3)" 
+  },
+   { 
+    "src": "mosaique-2020-(4).jpg", 
+    "srct": "mosaique-2020-(4).jpg", 
+    "title": "mosaique-2020-(4)" 
+  },
+   { 
+    "src": "mosaique-2020-(5).jpg", 
+    "srct": "mosaique-2020-(5).jpg", 
+    "title": "mosaique-2020-(5)" 
+  }
+]
